@@ -1,2 +1,2 @@
-# openCV
-openCV course material from kongruksiam
+contains material from KongRuksiam course on youtube\
+https://www.youtube.com/watch?v=fLDJJXEykvo
